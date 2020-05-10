@@ -2,9 +2,9 @@
 
 
 <h4> To Do: </h4>
-	- Create an install file so it can finally be run like a command (IMPORTANT)
-	- Release it to students to get bug reports and feedback
-	- hopefully get others to contribute as open source
+	- Create an install file so it can finally be run like a command (IMPORTANT)\n
+	- Release it to students to get bug reports and feedback\n
+	- hopefully get others to contribute as open source\n
 	- Get a decent sleep schedule
 
 <h4> Usage: </h4>
