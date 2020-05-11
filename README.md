@@ -2,10 +2,10 @@
 
 
 <h4> To Do: </h4>
-	- Create an install file so it can finally be run like a command (IMPORTANT)
-	- Release it to students to get bug reports and feedback
-	- hopefully get others to contribute as open source
-	- Get a decent sleep schedule
+	<li>- Create an install file so it can finally be run like a command (IMPORTANT)</li>
+	<li>- Release it to students to get bug reports and feedback</li>
+	<li>- hopefully get others to contribute as open source</li>
+	<li>- Get a decent sleep schedule</li>
 
 <h4> Usage: </h4>
 	Navigate to the directory for the project (Yes you have to make the directory cry me a river)
