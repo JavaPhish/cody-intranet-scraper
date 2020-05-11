@@ -67,7 +67,7 @@ else:
 """ Find all main/test files 
 
     Search method: All test files generally exist in the <code> html tag
-    and they are displayed using the cat command "cat 0-main.py" you can
+    and they are displayed using the cat command ex "cat 0-main.py" you can
     find most of them using the "cat " as the beginning index and a newline
     as the end index, which should give you the filename.
     After the \n I get everything to the name juli or guil because of the 
