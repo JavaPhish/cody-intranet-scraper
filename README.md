@@ -1,6 +1,11 @@
 <h1> Open Source Intranet Project Scraper </h1>
 
 <h4> Usage: </h4>
+	First run the install scripts by using ./install.sh
+	You must be root for it to work properly
+
+	Now that everything's ready
+
 	Navigate to the directory for the project (Yes you have to make the directory cry me a river)
 	Then, using the command "idkyet" type in the project number OR the project URL
 	
