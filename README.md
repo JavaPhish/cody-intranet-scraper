@@ -24,6 +24,7 @@ I DO NOT CREATE DIRECTORIES, OR PULL HEADER FILES!!!
 
 
 <h4> To Do: </h4>
+	<li> make it generate README </li>
 	<li> Release it to students to get bug reports and feedback</li>
 	<li> Get a decent sleep schedule</li>
 	<li> Possibly have it create the directory and insert the files (I might get to this one if i get a chance) </li>
