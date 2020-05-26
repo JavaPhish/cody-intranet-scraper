@@ -1,4 +1,7 @@
-<h1> Open Source Intranet Project Scraper </h1>
+<h1> Cody : An Intranet Project Scraper </h1>
+<h5>Want to help me improve this? Just ask to be a contributer and make your own branch :) </h5>
+
+I DO NOT CREATE DIRECTORIES, OR PULL HEADER FILES!!!
 
 <h4> Usage: </h4>
 	First run the install scripts by using ./install.sh
@@ -7,17 +10,20 @@
 	Now that everything's ready
 
 	Navigate to the directory for the project (Yes you have to make the directory cry me a river)
-	Then, using the command "idkyet" type in the project number OR the project URL
+	Then, using the command "cody" type in the project number OR the project URL
 	
 	Example 1:
-		call_name 243
+		cody 243
 	OR
 	Example 2:
-		call_name https://intranet.hbtn.io/projects/239
+		cody https://intranet.hbtn.io/projects/239
+
+	It will then automatically generate all project files along with all project main files
+	that it can detect. WARNING: Its still in betaish so it does pull some odd files every now and then.
+	It also does not pull header files or create the directory
 
 
 <h4> To Do: </h4>
-	<li> Create an install file so it can finally be run like a command (IMPORTANT)</li>
 	<li> Release it to students to get bug reports and feedback</li>
 	<li> Get a decent sleep schedule</li>
 	<li> Possibly have it create the directory and insert the files (I might get to this one if i get a chance) </li>
