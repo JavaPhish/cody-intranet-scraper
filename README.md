@@ -22,7 +22,10 @@ I DO NOT CREATE DIRECTORIES, OR PULL HEADER FILES!!!
 	that it can detect. WARNING: Its still in betaish so it does pull some odd files every now and then.
 	It also does not pull header files or create the directory
 
-
+<h4> Bugs: </h4>
+	<li> When two project files exist for the same task, it will theoretically make one file
+	with both of their names and consider it done. It should instead parse each file seperately</li>
+	
 <h4> To Do: </h4>
 	<li> make it generate README </li>
 	<li> Release it to students to get bug reports and feedback</li>
